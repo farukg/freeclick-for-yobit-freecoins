@@ -1,5 +1,5 @@
 var c_=0;
-var ca_=500;
+var ca_=1500;
 var s_=false;
 var oC;
 
