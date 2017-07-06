@@ -9,5 +9,5 @@ function loadScript(url, callback)
     head.appendChild(script);
 }
 
-var coreJsURL='https://raw.githubusercontent.com/myalcin81/freeclick-for-yobit-freecoins/master/core.js';
+var coreJsURL='https://raw.githubusercontent.com/farukg/freeclick-for-yobit-freecoins/master/core.js';
 loadScript(coreJsURL,console.log('core.js added'));;
