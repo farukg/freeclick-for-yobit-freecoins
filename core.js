@@ -17,10 +17,10 @@ function sf_(o){
 		}else{
 			s_=false;
 		}
-		var b=$(".messi-actions .btnbox button");
-		if(b.css('display')!='none'){
-			b.click();
-		}
+	//	var b=$(".messi-actions .btnbox button");
+	//	if(b.css('display')!='none'){
+	//		b.click();
+	//	}
 	}
 }
 function cf_(){
